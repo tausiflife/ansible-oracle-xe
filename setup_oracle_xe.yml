@@ -5,4 +5,4 @@
   become_user: root
   become_method: sudo
   roles:
-    - oracle-xe
+    - ubuntu-oracle-xe
